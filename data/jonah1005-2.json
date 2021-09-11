@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "3",
+  "title": "Vault treats all tokens exactly the same that creates (huge) arbitrage opportunities.",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/2"
+}
