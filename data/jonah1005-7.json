@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "jonah1005",
+  "address": "0x501eE2A368f1E58C736dd7cE3b494B33c3158c68",
+  "risk": "2",
+  "title": " # Controller is vulnerable to sandwich attack",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/7"
+}
