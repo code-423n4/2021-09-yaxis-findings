@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "3",
+  "title": "Deposits into vaults are not tracked at a token level",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/14"
+}
