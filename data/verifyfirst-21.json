@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "verifyfirst",
+  "address": "0xe034a5282b731F1ea330043ECc0aA988B930CB25",
+  "risk": "2",
+  "title": "Possibility to Stake Twice",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/21"
+}
