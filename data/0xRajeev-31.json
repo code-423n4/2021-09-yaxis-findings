@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Checking allowed tokens can save gas by preventing expensive external calls",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/31"
+}
