@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Tokens with > 18 decimals will break logic",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/42"
+}
