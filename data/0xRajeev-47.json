@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Halting the protocol should be onlyGovernance and not onlyStrategist",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/47"
+}
