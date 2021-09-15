@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Missing canHarvest() in harvest()",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/54"
+}
