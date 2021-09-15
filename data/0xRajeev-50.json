@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "manager.allowedVaults check missing for add/remove strategy",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/50"
+}
