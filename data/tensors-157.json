@@ -1,0 +1,9 @@
+{
+  "contest": "yAxis contest",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "3",
+  "title": "_addLiquidity will lose user funds due to frontrunning.",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/157"
+}
