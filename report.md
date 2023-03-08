@@ -1,3 +1,11 @@
+---
+sponsor: "yAxis"
+slug: "2021-09-yaxis"
+date: "2021-11-10"
+title: "yAxis contest"
+findings: "https://github.com/code-423n4/2021-09-yaxis-findings"
+contest: 30
+---
 
 # Overview
 
